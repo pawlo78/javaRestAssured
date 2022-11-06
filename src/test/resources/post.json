@@ -1,0 +1,15 @@
+{
+  "status": "publish",
+  "type": "post",
+  "title": "Test Java Rest Assured 2",
+  "content": "Test Java Rest Assured - Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym.",
+  "excerpt": "Test Java Rest Assured - Lorem Ipsum jest tekstem stosowanym jako przykładowy .....",
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": []
+}
